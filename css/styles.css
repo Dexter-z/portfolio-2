@@ -1,0 +1,171 @@
+a
+{
+    color: #11999E;
+    padding: 25px;
+    text-decoration: none;
+}
+
+a:hover
+{
+    color: blue;
+}
+
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.bot-picture
+{
+    width: 25%;
+    float: left;
+}
+
+.bottom-cloud
+{
+    position: absolute;
+    left: 250px;
+}
+
+.bottom-container
+{
+    background-color: #66BFBF;
+    margin-bottom: 0;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.button-15
+{
+    text-decoration: none;
+    background-color: #11999E;
+    background-image: linear-gradient(#42A1EC, #0070C9);
+    border: 1px solid #0077CC;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: #FFFFFF;
+    cursor: pointer;
+    direction: ltr;
+    font-family: "Montserrat", sans-serif;    
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    line-height: 1.47059;
+    min-width: 30px;
+    overflow: visible;
+    padding: 4px 15px;
+    text-align: center;
+    vertical-align: baseline;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    white-space: nowrap;
+}
+
+.button-15:disabled {
+  cursor: default;
+  opacity: .3;
+}
+
+.button-15:hover {
+  background-image: linear-gradient(#51A9EE, #147BCD);
+  border-color: #1482D0;
+  text-decoration: none;
+}
+
+.button-15:active {
+  background-image: linear-gradient(#3D94D9, #0067B9);
+  border-color: #006DBC;
+  outline: none;
+}
+
+.button-15:focus {
+  box-shadow: rgba(131, 192, 253, 0.5) 0 0 0 3px;
+  outline: none;
+}
+
+.contact-message
+{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+/* 1REM = 16px*/
+h1
+{
+    color: #66BFBF;
+    margin-top: 50px;
+    margin-right: auto;
+    margin-bottom: 0;
+    margin-left: auto;
+    font-family: "Sacramento", cursive;
+    font-size: 5.625rem;
+}
+
+h2
+{
+    color: #66BFBF;
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+}
+
+h3
+{
+    color: #11999E;
+    font-family: "Montserrat", sans-serif;
+}
+
+hr
+{
+    border-color: grey;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+}
+
+.mountain
+{
+    width: 100%;
+}
+
+.pro 
+{
+    text-decoration: underline;
+}
+
+.skill-row
+{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    line-height: 2;
+    text-align: left;
+}
+
+.TopContainer
+{
+    /*background-color: #DDDDDD;*/
+    background-color: #E4F9F5;
+    padding-top: 100px;
+}
+
+.top-cloud
+{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.trademark
+{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0 20px;
+}
